@@ -1,0 +1,5 @@
+streamlit>=1.50
+sqlalchemy
+python-dotenv
+pandas
+Authlib>=1.3.2
